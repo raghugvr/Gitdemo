@@ -1,2 +1,2 @@
 test
-Test auto build
+Test auto
