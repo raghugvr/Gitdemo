@@ -4,6 +4,7 @@ pipeline {
         stage('Build') { 
             steps { 
                 echo "Welcome"
+                sh 'git log'
             }
         }
         stage('Test'){
